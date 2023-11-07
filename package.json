@@ -2,7 +2,7 @@
   "name": "react-router-dom",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Etz-Hola.github.io/DLT_Blogsite",
+  "homepage": "https://Etz-Hola.github.com/DLT_Blogsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
